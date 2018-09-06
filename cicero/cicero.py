@@ -72,8 +72,7 @@ if __name__ == '__main__':
                          client_secret='XXXX',
                          user_agent='XXXX',
                          username='XXXX',
-                         password='XXXX')
-
+                         password='XXXXX')
     subreddit_scrape(reddit)
     # get_comments(reddit)
 
